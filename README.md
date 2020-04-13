@@ -1,4 +1,4 @@
-*Original from Rakwireless Repository. Thank for makeing this very useful script.
+*Original from Rakwireless Repository. Thank for sharing this very useful script.
 
 This script will install and config ChirpStack Server on Raspbian. Test with Raspberry Pi 4B
 
