@@ -5,7 +5,7 @@ sudo apt update
 
 sudo apt upgrade
 
-git clone https://github.com/m2mlorawan/ChirpStack_on_Ubuntu
+git clone https://github.com/m2mlorawan/ChirpStack_on_Raspbian
 
 cd ChirpStack_on_Ubuntu/
 
