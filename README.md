@@ -1,5 +1,5 @@
 
-This script will install and config ChirpStack Server on Raspbian.
+This script will install and config ChirpStack Server on Raspbian. Test with Raspberry Pi 4B
 
 sudo apt update
 
