@@ -15,3 +15,7 @@ chmod +x install.sh
 sudo ./install.sh
 
 sudo reboot
+
+Start using http://<ip>:8080
+User: admin Password: admin
+
