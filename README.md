@@ -8,7 +8,7 @@ sudo apt upgrade
 
 git clone https://github.com/m2mlorawan/ChirpStack_on_Raspbian
 
-cd ChirpStack_on_Rasbian/
+cd ChirpStack_on_Raspbian/
 
 chmod +x install.sh
 
