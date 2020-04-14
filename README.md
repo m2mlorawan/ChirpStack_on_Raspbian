@@ -13,3 +13,5 @@ cd ChirpStack_on_Rasbian/
 chmod +x install.sh
 
 sudo ./install.sh
+
+sudo reboot
